@@ -1,13 +1,14 @@
 # convert-to-cyrillic
 
-This script converts English text to phonetically equivalent Russian cyrillic.
+This script converts English text to phonetically equivalent Russian Cyrillic.
 
-# Installation
+## Installation
 
 This project uses `pipenv` for dependency management.
 
 ```
 pip install pipenv
-cd Cyrillic
+git clone https://github.com/capbrown/convert-to-cyrillic
+cd convert-to-cyrillic-master
 pipenv install
 ```
